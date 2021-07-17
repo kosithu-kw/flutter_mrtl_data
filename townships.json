@@ -49,6 +49,15 @@
         "id": "10",
         "city_name": "ကျိုက်မရော",
         "image": "kyaikmayaw.jpg"
+    },
+    {
+        "id":"11",
+        "city_name":"test",
+        "image":"kyaikhto.jpg"
+    },
+    {
+        "id":"12",
+        "city_name":"test",
+        "image":"kyaikhto.jpg"
     }
-   
 ]
